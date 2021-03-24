@@ -22,7 +22,7 @@ python-dateutil==2.5.3
 python-lambda==2.2.0
 PyYAML==3.11
 requests==2.18.4
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.1.12
 six==1.10.0
 urllib3==1.22
