@@ -20,7 +20,7 @@ pyasn1==0.4.2
 pylint==1.8.1
 python-dateutil==2.5.3
 python-lambda==2.2.0
-PyYAML==3.11
+PyYAML==5.4
 requests==2.18.4
 rsa==3.4.2
 s3transfer==0.1.12
